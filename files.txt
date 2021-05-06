@@ -1,0 +1,10 @@
+ Volume in drive M is Ming Data
+ Volume Serial Number is 4285-FE5B
+
+ Directory of M:\ming\doc\GistSupportingDocs
+
+05/05/2021  09:13 PM    <DIR>          .
+05/05/2021  09:13 PM    <DIR>          ..
+05/05/2021  09:13 PM                 0 files.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  94,914,822,144 bytes free
